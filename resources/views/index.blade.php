@@ -73,7 +73,7 @@
 		<img src="img/demos/architecture-2/backgrounds/arch-plan-1.jpg" class="img-fluid position-absolute top-0 right-0" alt="" />
 	</div>
 
-	<div class="custom-page-wrapper">
+	<div class="custom-page-wrapper bg-dark">
 		<section class="section bg-transparent border-0 position-relative py-0 m-0">
 			<div class="container container-xl-custom custom-container-style custom-margin-top">
 				<div class="row mb-5">
