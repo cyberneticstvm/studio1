@@ -70,7 +70,7 @@
 	</section>
 
 	<div class="position-relative">
-		<img src="img/demos/architecture-2/backgrounds/arch-plan-1.jpg" class="img-fluid position-absolute top-0 right-0" alt="" />
+		<!--<img src="img/demos/architecture-2/backgrounds/arch-plan-1.jpg" class="img-fluid position-absolute top-0 right-0" alt="" />-->
 	</div>
 
 	<div class="custom-page-wrapper bg-dark">
@@ -82,44 +82,44 @@
 							<div class="owl-carousel-wrapper position-relative z-index-1 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000" style="height: 373px;">
 								<div class="owl-carousel owl-theme dots-horizontal-center custom-dots-style-1 mb-0" data-plugin-options="{'responsive': {'576': {'items': 1}, '768': {'items': 1}, '992': {'items': 2}, '1200': {'items': 3}}, 'margin': 25, 'loop': true, 'nav': false, 'dots': true, 'autoplay': true, 'autoplayTimeout': 7000}">
 									<div>
-										<a href="demo-architecture-2-services-detail.html" class="text-decoration-none">
-											<div class="card custom-card-style-1 border-radius-0">
+										<a href="/" class="text-decoration-none">
+											<div class="card bg-dark custom-card-style-1 border-radius-0">
 												<div class="card-body text-center p-5 mb-4">
-													<img width="75" height="75" src="img/demos/architecture-2/icons/house-plant.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary mt-3 mb-4 pb-3'}" />
-													<h2 class="text-color-dark font-weight-bold line-height-1 text-6-5 mb-3">Design & Planning</h2>
+													<img width="75" height="75" src="img/demos/architecture-2/icons/architecture-buildings.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'mt-3 mb-4 pb-3'}" />
+													<h2 class="text-color-white font-weight-bold line-height-1 text-6-5 mb-3">Design & Planning</h2>
 													<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra erat orci.</p>
 												</div>
 											</div>
 										</a>
 									</div>
 									<div>
-										<a href="demo-architecture-2-services-detail.html" class="text-decoration-none">
-											<div class="card custom-card-style-1 border-radius-0">
+										<a href="/" class="text-decoration-none">
+											<div class="card bg-dark custom-card-style-1 border-radius-0">
 												<div class="card-body text-center p-5 mb-4">
-													<img width="75" height="75" src="img/demos/architecture-2/icons/sofa.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary mt-3 mb-4 pb-3'}" />
-													<h2 class="text-color-dark font-weight-bold line-height-1 text-6-5 mb-3">Interior Design</h2>
+													<img width="75" height="75" src="img/demos/architecture-2/icons/architecture-buildings.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'mt-3 mb-4 pb-3'}" />
+													<h2 class="text-color-white font-weight-bold line-height-1 text-6-5 mb-3">Interior Design</h2>
 													<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra erat orci.</p>
 												</div>
 											</div>
 										</a>
 									</div>
 									<div>
-										<a href="demo-architecture-2-services-detail.html" class="text-decoration-none">
-											<div class="card custom-card-style-1 border-radius-0">
+										<a href="/" class="text-decoration-none">
+											<div class="card bg-dark custom-card-style-1 border-radius-0">
 												<div class="card-body text-center p-5 mb-4">
-													<img width="75" height="75" src="img/demos/architecture-2/icons/wallpaper.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary mt-3 mb-4 pb-3'}" />
-													<h2 class="text-color-dark font-weight-bold line-height-1 text-6-5 mb-3">Exterior Design</h2>
+													<img width="75" height="75" src="img/demos/architecture-2/icons/architecture-buildings.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'mt-3 mb-4 pb-3'}" />
+													<h2 class="text-color-white font-weight-bold line-height-1 text-6-5 mb-3">Exterior Design</h2>
 													<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra erat orci.</p>
 												</div>
 											</div>
 										</a>
 									</div>
 									<div>
-										<a href="demo-architecture-2-services-detail.html" class="text-decoration-none">
-											<div class="card custom-card-style-1 border-radius-0">
+										<a href="/" class="text-decoration-none">
+											<div class="card bg-dark custom-card-style-1 border-radius-0">
 												<div class="card-body text-center p-5 mb-4">
-													<img width="75" height="75" src="img/demos/architecture-2/icons/house-plant.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary mt-3 mb-4 pb-3'}" />
-													<h2 class="text-color-dark font-weight-bold line-height-1 text-6-5 mb-3">Design & Planning</h2>
+													<img width="75" height="75" src="img/demos/architecture-2/icons/architecture-buildings.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'mt-3 mb-4 pb-3'}" />
+													<h2 class="text-color-white font-weight-bold line-height-1 text-6-5 mb-3">Hospitality</h2>
 													<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra erat orci.</p>
 												</div>
 											</div>
@@ -133,25 +133,29 @@
 				<div id="start" class="row align-items-center pb-xl-5 mb-xl-5">
 					<div class="col-9 col-lg-4 col-xl-5 pb-5 pb-lg-0 mb-5 mb-lg-0">
 						<div class="position-relative">
-							<img src="img/demos/architecture-2/backgrounds/arch-plan-2.jpg" class="img-fluid position-absolute left-0 z-index-0 appear-animation" alt="" data-appear-animation="fadeIn" data-appear-animation-delay="850" style="bottom: -168px;" />
+							<!--<img src="img/demos/architecture-2/backgrounds/arch-plan-2.jpg" class="img-fluid position-absolute left-0 z-index-0 appear-animation" alt="" data-appear-animation="fadeIn" data-appear-animation-delay="850" style="bottom: -168px;" />-->
 							<div class="overflow-hidden position-relative z-index-1">
-								<img src="img/demos/architecture-2/generic/generic-1.jpg" class="img-fluid appear-animation" alt="" data-appear-animation="maskLeft" data-appear-animation-delay="250" />
+								<span class="anim-hover-scale-1-2 transition-3ms d-inline-block">
+									<img src="img/demos/architecture-2/generic/img1.webp" class="img-fluid appear-animation" alt="" data-appear-animation="maskLeft" data-appear-animation-delay="250" />
+								</span>
 							</div>
 							<div class="overflow-hidden position-absolute z-index-2" style="bottom: -75px; right: -17%;">
-								<img src="img/demos/architecture-2/generic/generic-2.jpg" class="img-fluid appear-animation" alt="" data-appear-animation="maskRight" data-appear-animation-delay="550" />
+								<span class="anim-hover-scale-1-2 transition-3ms d-inline-block">
+									<img src="img/demos/architecture-2/generic/img2.webp" class="img-fluid appear-animation" alt="" data-appear-animation="maskRight" data-appear-animation-delay="550" />
+								</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-7 col-xl-5 offset-lg-1 position-relative pt-5 pt-lg-0">
 						<div class="position-absolute z-index-0 left-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="2000" style="top: 190px;">
-							<h2 class="text-color-dark custom-stroke-text-effect-1 custom-big-font-size-1 font-weight-black opacity-1 mb-0">YOUR PLACE</h2>
+							<h2 class="text-color-white custom-stroke-text-effect-1 custom-big-font-size-1 font-weight-black opacity-1 mb-0">STUDIO1 CREATORS</h2>
 						</div>
 						<div class="pt-lg-5 ps-lg-5 mt-lg-5">
 							<div class="overflow-hidden mb-2">
-								<h2 class="text-color-default positive-ls-3 line-height-3 text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="800">WE'RE HERE TO HELP</h2>
+								<h2 class="text-color-white positive-ls-3 line-height-3 text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="800">WE'RE HERE TO HELP</h2>
 							</div>
 							<div class="overflow-hidden mb-3">
-								<h3 class="text-transform-none text-color-dark font-weight-black text-10 line-height-2 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">You need space for better living.</h3>
+								<h3 class="text-transform-none text-color-white font-weight-black text-10 line-height-2 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">You need space for better living.</h3>
 							</div>
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">
 								<img src="img/demos/architecture-2/divider.jpg" class="img-fluid opacity-5 mb-4" alt="" />
@@ -170,30 +174,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="container container-xl-custom pb-3">
-				<div class="row align-items-center text-center py-5 my-3">
-					<div class="col-sm-4 col-xl-2 mb-5 mb-xl-0">
-						<img src="img/logos/logo-8.png" alt class="img-fluid" style="max-width: 90px;" />
-					</div>
-					<div class="col-sm-4 col-xl-2 mb-5 mb-xl-0">
-						<img src="img/logos/logo-9.png" alt class="img-fluid" style="max-width: 140px;" />
-					</div>
-					<div class="col-sm-4 col-xl-2 mb-5 mb-xl-0">
-						<img src="img/logos/logo-10.png" alt class="img-fluid" style="max-width: 140px;" />
-					</div>
-					<div class="col-sm-4 col-xl-2 mb-5 mb-lg-0">
-						<img src="img/logos/logo-11.png" alt class="img-fluid" style="max-width: 140px;" />
-					</div>
-					<div class="col-sm-4 col-xl-2 mb-5 mb-lg-0">
-						<img src="img/logos/logo-12.png" alt class="img-fluid" style="max-width: 100px;" />
-					</div>
-					<div class="col-sm-4 col-xl-2">
-						<img src="img/logos/logo-13.png" alt class="img-fluid" style="max-width: 100px;" />
-					</div>
-				</div>
-			</div>
 			<div class="custom-section">
-				<div class="custom-section-left-content parallax p-0 m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'fadeIn': true}" data-image-src="img/demos/architecture-2/generic/generic-3.jpg" style="min-height: 400px"></div>
+				<div class="custom-section-left-content parallax p-0 m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'fadeIn': true}" data-image-src="img/demos/architecture-2/generic/img3.webp" style="min-height: 400px"></div>
 				<div class="custom-section-middle-content bg-primary p-5">
 					<div class="owl-carousel owl-theme nav-style-1 nav-svg-arrows-1 nav-light custom-hide-prev-nav custom-dots-style-1 custom-dots-style-1-light mb-0" data-plugin-options="{'responsive': {'0': { 'items': 1}, '576': {'items': 1}, '768': {'items': 1, 'dots': true, 'nav': false}, '992': {'items': 1}, '1200': {'items': 1}}, 'loop': true, 'nav': true, 'dots': false, 'margin': 20, 'refresh': true}">
 						<div class="pt-4 pb-3">
@@ -219,16 +201,16 @@
 						</div>
 					</div>
 				</div>
-				<div class="custom-section-right-content parallax p-0 m-0" data-plugin-parallax data-plugin-options="{'speed': 3, 'parallaxDirection': 'bottom', 'fadeIn': true}" data-image-src="img/demos/architecture-2/generic/generic-4.jpg" style="min-height: 400px"></div>
+				<div class="custom-section-right-content parallax p-0 m-0" data-plugin-parallax data-plugin-options="{'speed': 3, 'parallaxDirection': 'bottom', 'fadeIn': true}" data-image-src="img/demos/architecture-2/generic/img4.webp" style="min-height: 400px"></div>
 			</div>
 			<div class="container container-xl-custom py-5 mt-5 mb-4">
 				<div class="row py-4">
 					<div class="col-lg-5 col-xl-4 position-relative mb-4">
 						<div class="position-absolute z-index-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500" style="top: 102px; left: -64px;">
-							<h2 class="text-color-dark custom-stroke-text-effect-1 custom-big-font-size-2 font-weight-black opacity-1 mb-0">IDEAS</h2>
+							<h2 class="text-color-white custom-stroke-text-effect-1 custom-big-font-size-2 font-weight-black opacity-1 mb-0">CREATORS</h2>
 						</div>
 						<h2 class="text-color-default positive-ls-3 line-height-3 text-4 mb-2">CUSTOM SERVICES</h2>
-						<h3 class="text-transform-none text-color-dark font-weight-black text-9 line-height-2 mb-4">Design. Build. Better.</h3>
+						<h3 class="text-transform-none text-color-white font-weight-black text-9 line-height-2 mb-4">Design. Build. Better.</h3>
 						<img src="img/demos/architecture-2/divider.jpg" class="img-fluid opacity-5 mb-4 mt-2" alt="" />
 						<p class="custom-font-tertiary text-5 line-height-4 mb-4 mt-2">Discover how our unique process improves your building experience.</p>
 					</div>
@@ -236,24 +218,24 @@
 						<h2 class="text-color-default positive-ls-3 line-height-3 text-4 pb-2 mb-4">OUR SKILLS</h2>
 						<div class="progress-bars custom-progress-bars-style-1">
 							<div class="progress-label d-flex justify-content-between">
-								<span class="text-color-dark text-2">SAMPLE SKILL 1</span>
-								<span class="text-color-dark text-2">85%</span>
+								<span class="text-color-white text-2">SAMPLE SKILL 1</span>
+								<span class="text-color-white text-2">85%</span>
 							</div>
 							<div class="progress progress-xs progress-no-border-radius bg-color-light-scale-4 mb-4">
 								<div class="progress-bar progress-bar-primary" data-appear-progress-animation="85%"></div>
 							</div>
 
 							<div class="progress-label d-flex justify-content-between pt-2">
-								<span class="text-color-dark text-2">SAMPLE SKILL 2</span>
-								<span class="text-color-dark text-2">90%</span>
+								<span class="text-color-white text-2">SAMPLE SKILL 2</span>
+								<span class="text-color-white text-2">90%</span>
 							</div>
 							<div class="progress progress-xs progress-no-border-radius bg-color-light-scale-4 mb-4">
 								<div class="progress-bar progress-bar-primary" data-appear-progress-animation="90%"></div>
 							</div>
 
 							<div class="progress-label d-flex justify-content-between pt-2">
-								<span class="text-color-dark text-2">SAMPLE SKILL 3</span>
-								<span class="text-color-dark text-2">85%</span>
+								<span class="text-color-white text-2">SAMPLE SKILL 3</span>
+								<span class="text-color-white text-2">85%</span>
 							</div>
 							<div class="progress progress-xs progress-no-border-radius bg-color-light-scale-4 mb-4">
 								<div class="progress-bar progress-bar-primary" data-appear-progress-animation="85%"></div>
@@ -299,33 +281,33 @@
 				<div class="masonry-loader masonry-loader-showing">
 					<div class="masonry row" data-plugin-masonry data-plugin-options="{'layoutMode': 'packery', 'itemSelector': '.masonry-item', 'sortBy': 'original-order'}">
 						<div class="masonry-item no-default-style col-6 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/generic-5.jpg" data-appear-animation="maskDown" data-appear-animation-delay="500">
-								<img src="img/demos/architecture-2/generic/generic-5.jpg" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal1.webp" data-appear-animation="maskDown" data-appear-animation-delay="500">
+								<img src="img/demos/architecture-2/generic/gal1.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 col-lg-3 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/generic-6.jpg" data-appear-animation="maskRight" data-appear-animation-delay="250">
-								<img src="img/demos/architecture-2/generic/generic-6.jpg" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal2.webp" data-appear-animation="maskRight" data-appear-animation-delay="250">
+								<img src="img/demos/architecture-2/generic/gal2.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 col-lg-3 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/generic-7.jpg" data-appear-animation="maskLeft" data-appear-animation-delay="750">
-								<img src="img/demos/architecture-2/generic/generic-7.jpg" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal3.webp" data-appear-animation="maskLeft" data-appear-animation-delay="750">
+								<img src="img/demos/architecture-2/generic/gal3.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/generic-10.jpg" data-appear-animation="maskUp" data-appear-animation-delay="500">
-								<img src="img/demos/architecture-2/generic/generic-10.jpg" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal6.webp" data-appear-animation="maskUp" data-appear-animation-delay="500">
+								<img src="img/demos/architecture-2/generic/gal6.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 col-lg-3 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/generic-8.jpg" data-appear-animation="maskRight" data-appear-animation-delay="750">
-								<img src="img/demos/architecture-2/generic/generic-8.jpg" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal2.webp" data-appear-animation="maskRight" data-appear-animation-delay="750">
+								<img src="img/demos/architecture-2/generic/gal2.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 col-lg-3 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/generic-9.jpg" data-appear-animation="maskLeft" data-appear-animation-delay="250">
-								<img src="img/demos/architecture-2/generic/generic-9.jpg" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal3.webp" data-appear-animation="maskLeft" data-appear-animation-delay="250">
+								<img src="img/demos/architecture-2/generic/gal3.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 					</div>
@@ -351,10 +333,10 @@
 			<div class="row py-5 my-5">
 				<div class="col-lg-5 col-xl-4 position-relative mb-5 mb-lg-0 appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="250" data-plugin-options="{'accY': -400}">
 					<div class="position-absolute z-index-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500" style="top: 102px; left: -246px;">
-						<h2 class="text-color-dark custom-stroke-text-effect-1 custom-big-font-size-3 font-weight-black opacity-1 mb-0">SOLUTIONS</h2>
+						<h2 class="text-color-dark custom-stroke-text-effect-1 custom-big-font-size-3 font-weight-black opacity-1 mb-0">STUDIO1</h2>
 					</div>
 					<h2 class="text-color-default positive-ls-3 line-height-3 text-4 mb-2">COMMON QUESTIONS</h2>
-					<h3 class="text-transform-none text-color-dark font-weight-black text-10 line-height-2 mb-4">Frequent Questions</h3>
+					<h3 class="text-transform-none text-color-white font-weight-black text-10 line-height-2 mb-4">Frequent Questions</h3>
 					<img src="img/demos/architecture-2/divider.jpg" class="img-fluid opacity-5 mb-4 mt-2" alt="" />
 					<p class="custom-font-tertiary text-5 line-height-4 mb-4 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet libero</p>
 					<p class="text-3-5 pb-2 mb-4">Vestibulum auctor felis eget orci semper vestibulum. Pellentesque ultricies nibh gravida, accumsan libero luctus, molestie nunc.</p>
@@ -475,10 +457,10 @@
 				</div>
 				<div class="col-lg-5 col-xl-4 text-end position-relative appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="250">
 					<div class="position-absolute z-index-0 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="500" style="top: 102px; right: -50px;">
-						<h2 class="text-color-dark custom-stroke-text-effect-1 custom-big-font-size-3 font-weight-black opacity-1 mb-0">ARCHLIFE</h2>
+						<h2 class="text-color-dark custom-stroke-text-effect-1 custom-big-font-size-3 font-weight-black opacity-1 mb-0">STUDIO1</h2>
 					</div>
 					<h2 class="text-color-default positive-ls-3 line-height-3 text-4 mb-2">THE BEST PROFESSIONALS</h2>
-					<h3 class="text-transform-none text-color-dark font-weight-black text-10 line-height-2 mb-4">Meet Our Team</h3>
+					<h3 class="text-transform-none text-color-white font-weight-black text-10 line-height-2 mb-4">Meet Our Team</h3>
 					<img src="img/demos/architecture-2/divider.jpg" class="img-fluid opacity-5 mb-4 mt-2" alt="" />
 					<p class="custom-font-tertiary text-5 line-height-4 mb-4 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet libero</p>
 					<p class="text-3-5 pb-3 mb-4">Vestibulum auctor felis eget orci semper vestibulum. Pellentesque ultricies nibh gravida, accumsan libero luctus, molestie nunc.</p>
@@ -534,11 +516,11 @@
 					<div class="col text-center position-relative">
 						<div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
 							<div class="position-absolute transform3dx-n50 left-50pct z-index-0" style="top: 56px;">
-								<h2 class="text-color-dark custom-stroke-text-effect-1 custom-big-font-size-1 font-weight-black opacity-1 mb-0">WHAT'S HAPPENING</h2>
+								<h2 class="text-color-dark custom-stroke-text-effect-1 custom-big-font-size-1 font-weight-black opacity-1 mb-0">STUDIO1 CREATORS</h2>
 							</div>
 						</div>
 						<h2 class="text-color-default positive-ls-3 line-height-3 text-4 mb-2">OUR BLOG</h2>
-						<h3 class="text-transform-none text-color-dark font-weight-black text-10 line-height-2 mb-3">Recent News</h3>
+						<h3 class="text-transform-none text-color-white font-weight-black text-10 line-height-2 mb-3">Recent News</h3>
 						<img src="img/demos/architecture-2/divider.jpg" class="img-fluid opacity-5 mt-3 mb-5" alt="" />
 					</div>
 				</div>
