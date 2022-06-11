@@ -7,8 +7,8 @@
 		<div class="custom-slider-background overflow-hidden">
 			<div class="custom-slider-background-image-stage-outer appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1600">
 				<div class="custom-slider-background-image-stage">
-					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slide-1-1.jpg); background-size: cover; background-position: center;"></div>
-					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slide-1-2.jpg); background-size: cover; background-position: center;"></div>
+					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slider1.webp); background-size: cover; background-position: center;"></div>
+					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slider3.webp); background-size: cover; background-position: center;"></div>
 					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/generic/generic-1.jpg); background-size: cover; background-position: center;"></div>
 					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/generic/generic-2.jpg); background-size: cover; background-position: center;"></div>
 				</div>
@@ -17,8 +17,8 @@
 				<div class="custom-slider-background-image-stage reverse">
 					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/generic/generic-2.jpg); background-size: cover; background-position: center;"></div>
 					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/generic/generic-1.jpg); background-size: cover; background-position: center;"></div>
-					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slide-1-1.jpg); background-size: cover; background-position: center;"></div>
-					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slide-1-2.jpg); background-size: cover; background-position: center;"></div>
+					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slider4.webp); background-size: cover; background-position: center;"></div>
+					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slider2.webp); background-size: cover; background-position: center;"></div>
 				</div>
 			</div>
 		</div>
@@ -31,7 +31,7 @@
 						<div class="row align-items-center h-100">
 							<div class="col">
 								<div class="overflow-hidden mb-2 mb-sm-1 mb-md-0">
-									<h1 class="text-color-light font-weight-black line-height-1 text-10 text-md-13 text-lg-15 ls-0 mb-0 appear-animation" data-appear-animation="maskUp">Arch Design Studio</h1>
+									<h1 class="text-color-light font-weight-black line-height-1 text-10 text-md-13 text-lg-15 ls-0 mb-0 appear-animation" data-appear-animation="maskUp">Studio1 Creators</h1>
 								</div>
 								<div class="overflow-hidden opacity-8 mb-1">
 									<h2 class="text-color-light line-height-6 line-height-md-2 text-5 text-md-6 positive-ls-3 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="250">A Very Personal Approach to Every Client</h2>
@@ -51,7 +51,7 @@
 						<div class="row align-items-center justify-content-end h-100">
 							<div class="col text-end">
 								<div class="overflow-hidden mb-2 mb-sm-1 mb-md-0">
-									<h1 class="text-color-light font-weight-black line-height-1 text-10 text-md-13 text-lg-15 ls-0 mb-0 appear-animation d-none" data-appear-animation="maskUp">Arch Design Studio</h1>
+									<h1 class="text-color-light font-weight-black line-height-1 text-10 text-md-13 text-lg-15 ls-0 mb-0 appear-animation d-none" data-appear-animation="maskUp">Studio1 Creators</h1>
 								</div>
 								<div class="overflow-hidden opacity-8 mb-1">
 									<h2 class="text-color-light line-height-6 line-height-md-2 text-5 text-md-6 positive-ls-3 mb-0 appear-animation d-none" data-appear-animation="maskUp" data-appear-animation-delay="250">A Very Personal Approach to Every Client</h2>
