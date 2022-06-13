@@ -280,33 +280,33 @@
 				<div class="masonry-loader masonry-loader-showing">
 					<div class="masonry row" data-plugin-masonry data-plugin-options="{'layoutMode': 'packery', 'itemSelector': '.masonry-item', 'sortBy': 'original-order'}">
 						<div class="masonry-item no-default-style col-6 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal1.webp" data-appear-animation="maskDown" data-appear-animation-delay="500">
-								<img src="img/demos/architecture-2/generic/gal1.webp" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gallery1.webp" data-appear-animation="maskDown" data-appear-animation-delay="500">
+								<img src="img/demos/architecture-2/generic/gallery1.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 col-lg-3 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal2.webp" data-appear-animation="maskRight" data-appear-animation-delay="250">
-								<img src="img/demos/architecture-2/generic/gal2.webp" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gallery2.webp" data-appear-animation="maskRight" data-appear-animation-delay="250">
+								<img src="img/demos/architecture-2/generic/gallery2.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 col-lg-3 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal3.webp" data-appear-animation="maskLeft" data-appear-animation-delay="750">
-								<img src="img/demos/architecture-2/generic/gal3.webp" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gallery3.webp" data-appear-animation="maskLeft" data-appear-animation-delay="750">
+								<img src="img/demos/architecture-2/generic/gallery3.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal6.webp" data-appear-animation="maskUp" data-appear-animation-delay="500">
-								<img src="img/demos/architecture-2/generic/gal6.webp" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gallery6.webp" data-appear-animation="maskUp" data-appear-animation-delay="500">
+								<img src="img/demos/architecture-2/generic/gallery6.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 col-lg-3 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal2.webp" data-appear-animation="maskRight" data-appear-animation-delay="750">
-								<img src="img/demos/architecture-2/generic/gal2.webp" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gallery5.webp" data-appear-animation="maskRight" data-appear-animation-delay="750">
+								<img src="img/demos/architecture-2/generic/gallery5.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 						<div class="masonry-item no-default-style col-6 col-lg-3 overflow-hidden px-0">
-							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gal3.webp" data-appear-animation="maskLeft" data-appear-animation-delay="250">
-								<img src="img/demos/architecture-2/generic/gal3.webp" class="img-fluid rounded-0" alt="" />
+							<a class="d-inline-block custom-img-thumbnail-style-1 img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon rounded-0 appear-animation" href="img/demos/architecture-2/generic/gallery4.webp" data-appear-animation="maskLeft" data-appear-animation-delay="250">
+								<img src="img/demos/architecture-2/generic/gallery4.webp" class="img-fluid rounded-0" alt="" />
 							</a>
 						</div>
 					</div>
