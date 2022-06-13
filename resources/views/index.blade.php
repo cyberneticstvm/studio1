@@ -6,8 +6,8 @@
 		<div class="custom-slider-background overflow-hidden">
 			<div class="custom-slider-background-image-stage-outer appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1600">
 				<div class="custom-slider-background-image-stage">
-					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slider1.webp); background-size: cover; background-position: center;"></div>
-					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slider3.webp); background-size: cover; background-position: center;"></div>
+					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/s1.webp); background-size: cover; background-position: center;"></div>
+					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/s3.webp); background-size: cover; background-position: center;"></div>
 					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/generic/generic-1.jpg); background-size: cover; background-position: center;"></div>
 					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/generic/generic-2.jpg); background-size: cover; background-position: center;"></div>
 				</div>
@@ -16,8 +16,8 @@
 				<div class="custom-slider-background-image-stage reverse">
 					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/generic/generic-2.jpg); background-size: cover; background-position: center;"></div>
 					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/generic/generic-1.jpg); background-size: cover; background-position: center;"></div>
-					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slider4.webp); background-size: cover; background-position: center;"></div>
-					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/slider2.webp); background-size: cover; background-position: center;"></div>
+					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/s4.webp); background-size: cover; background-position: center;"></div>
+					<div class="custom-slider-background-image-item overlay overlay-show overlay-op-6" style="background-image: url(img/demos/architecture-2/slides/s2.webp); background-size: cover; background-position: center;"></div>
 				</div>
 			</div>
 		</div>
